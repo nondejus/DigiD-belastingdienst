@@ -1,0 +1,2 @@
+# DigiD-belastingdienst
+Je verbinding is niet privé Cybercriminelen proberen mogelijk je gegevens van www.belastingdienst.nl te stelen (bijvoorbeeld wachtwoorden, berichten of creditcardgegevens). Meer informatie NET::ERR_CERT_AUTHORITY_INVALID  Help de Chrome-beveiliging te verbeteren door URL's van sommige pagina's die je bezoekt, beperkte systeemgegevens en bepaalde paginacontent naar Google te sturen. Privacybeleid
